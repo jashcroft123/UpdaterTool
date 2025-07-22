@@ -1,0 +1,3 @@
+local = "C:\\users\\public\\documents\\RHSE\\aCFT\\Release"
+remote = "\\\\renishaw.com\\global\\gb\\PLC\\EPD\\Data\\Encoder Secure Data\\Axis\\FORTiS\\Production resources\\RHSE\\aCFT\\Release"
+runexe = "Standalone_Exe.exe"
